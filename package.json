@@ -1,0 +1,23 @@
+{
+    "name": "boilerplate-code-flask-dashboard",
+    "mastertemplate": "boilerplate-code-flask-dashboard",
+    "version": "2stable.0.1",
+    "description": "Template project - Flask Boilerplate Code",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/app-generator/boilerplate-code-flask-dashboard"
+    },
+    "bugs": {
+        "url": "https://github.com/app-generator/boilerplate-code-flask-dashboard/issues",
+        "email": "support@AIS.us"
+    },
+    "author": "AppSeed App Generator <support@AIS.us> (https://AIS.us)",
+    "engines": {
+        "node": ">=10.0.0"
+    },
+    "dependencies": {
+        "@revolist/revogrid": "^4.4.0-next.3",
+        "ag-grid-community": "^29.3.4",
+        "python": "^0.0.4"
+    }
+}

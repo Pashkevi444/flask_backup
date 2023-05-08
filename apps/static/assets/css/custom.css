@@ -1,0 +1,6 @@
+body .gridjs-th, td.gridjs-td, .table > :not(caption) > * > * {
+    border: none !important;
+}
+body .gridjs-wrapper{
+    box-shadow: none;
+}
